@@ -18,5 +18,5 @@ int main(){
     scanf("%f",&sokWh);
 
     float TotalPayment= CrystalTienDien(sokWh);            // Truyền vào hàm trên để tính giá tiền phải tra
-    printf("Tong so tien phai thanh toan la: %.2f", TotalPayment);
+    printf("Tong so tien phai thanh toan la: %.2f", TotalPayment);// Endddddddddddddddddd
 }
